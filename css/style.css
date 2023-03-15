@@ -44,9 +44,15 @@
     
 }
 .w2{
-    padding: 7px 25px 7px 25px;
+    padding: 10px 25px 17px 25px;
     background-color: black;
     border: 1px solid white;
     border-radius: 15px;
+    margin-top: 300px;
     
+}
+.w11{
+    color: #AAC148;
+    margin-left: -22px;
+    margin-top: 10px;
 }
