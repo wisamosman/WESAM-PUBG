@@ -30,9 +30,19 @@
 }
 .w4{
     color: white;
+    margin-left: -22px;
+    margin-top: 10px;
+
+    
 
 }
 .w5{
     color: white;
-    font-weight: 700;
+    font-weight: 400;
+    
+}
+.w2{
+    padding: 15px 25px;
+    background-color: black;
+    border: 1px solid white;
 }
